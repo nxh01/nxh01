@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adonisi</h1>
+<h1 align="center">Hi 👋, I'm Adonis</h1>
 <h3 align="center">A passionate frontend developer from Kosovo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxh01&label=Profile%20views&color=0e75b6&style=flat" alt="nxh01" /> </p>
