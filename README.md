@@ -38,6 +38,8 @@
 <a href="https://github.com/nxh01">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nxh01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  <br/>
+ <h3>💾 &nbsp;Most Recent Used Languages</h3> 
+ <h1>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nxh01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
