@@ -8,8 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop websites for most of the time.\
-🎓 &nbsp;I'm currently on School.\
-🌱 &nbsp;I'm on track for learning in React Js and more to come after it.\
+🌱 &nbsp;I'm on track for learning in React Native and more to come after it.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at my website contact form xhemajli.com ! I'll try to respond as soon as I can.\
